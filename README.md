@@ -85,6 +85,7 @@ I'm a passionate MERN stack developer with a keen interest in building scalable 
 
 
 ## ⚙️ GitHub Profile Stats 💻
+
 <p align="center">
   <a href="https://github.com/seankhan1">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=seankhan1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
